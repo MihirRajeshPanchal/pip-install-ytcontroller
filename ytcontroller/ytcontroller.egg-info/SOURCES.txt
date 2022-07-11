@@ -1,0 +1,20 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+ytcontroller/Hand Mapping.txt
+ytcontroller/__init__.py
+ytcontroller/data.pickle
+ytcontroller/gesture.names
+ytcontroller.egg-info/PKG-INFO
+ytcontroller.egg-info/SOURCES.txt
+ytcontroller.egg-info/dependency_links.txt
+ytcontroller.egg-info/requires.txt
+ytcontroller.egg-info/top_level.txt
+ytcontroller/mp_hand_gesture/Hand Mapping.txt
+ytcontroller/mp_hand_gesture/data.pickle
+ytcontroller/mp_hand_gesture/gesture.names
+ytcontroller/mp_hand_gesture/keras_metadata.pb
+ytcontroller/mp_hand_gesture/saved_model.pb
+ytcontroller/mp_hand_gesture/variables/variables.data-00000-of-00001

@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: ytcontroller
+Version: 0.0.3
+Summary: Youtube Controller through hand gestures
+Home-page: UNKNOWN
+Author: Mihir Panchal
+Author-email: mihirpanchal5400@gmail.com
+License: MIT
+Keywords: yt,youtube,controller,gestures
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+Youtube Controller through hand gestures
+
+Functions : 
+
+multiple_clicker(key1, key2)
+
+clicker(key)
+
+ytcontrol()
+
+Gesture names-Functions :  
+
+Rock Sign-FullScreen
+
+Fist-Forward
+
+Victory Sign-Rewind
+
+Thumbs Up-Volume Up
+
+Thumbs Down-Volume Down
+
+Okay Sign-Play/Pause
+
+CHANGE LOG
+==========
+
+0.0.1 (29/06/2022)
+-------------------
+-First Release
+0.0.2 (29/06/2022)
+-------------------
+-Second Release
+0.0.3 (29/06/2022)
+-------------------
+-Third Release
+
